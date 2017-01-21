@@ -21,9 +21,6 @@
     <ClCompile Include="CListPWr.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="CList.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CList.h">
