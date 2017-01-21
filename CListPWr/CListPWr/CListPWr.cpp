@@ -2,7 +2,7 @@
 //
 
 
-#include "CList.h"
+#include "CList.cpp"
 #include <iostream>
 
 int main()
